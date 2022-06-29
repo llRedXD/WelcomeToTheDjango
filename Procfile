@@ -1,0 +1,1 @@
+web: gunicorn eventext.wsgi --log-file -
