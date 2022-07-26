@@ -4,3 +4,4 @@
 teste.py
 *.pyc
 staticfiles
+.vscode
